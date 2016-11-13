@@ -1,0 +1,10 @@
+com/indix/assetsdata/Application.class
+com/indix/assetsdata/controller/UPCController.class
+com/indix/assetsdata/controller/CategoryController.class
+com/indix/assetsdata/utils/MyPageResponse.class
+com/indix/assetsdata/model/Product.class
+com/indix/assetsdata/utils/ResponseCreateFactory.class
+com/indix/assetsdata/controller/PIDController.class
+com/indix/assetsdata/repository/ProductRepository.class
+com/indix/assetsdata/controller/SearchController.class
+com/indix/assetsdata/utils/AppConstants.class
